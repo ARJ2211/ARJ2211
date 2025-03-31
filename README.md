@@ -64,7 +64,7 @@ From vector databases and benchmarking dashboards to Alzheimer’s research and 
 </details>
 
 <details>
-  <summary>🛠️ Vector Database with PostgreSQL + DRF</summary>
+  <summary>🛠️ Graph Database with PostgreSQL + DRF</summary>
   <br>
   - Designed a graph-style database with recursive querying  
   - Reduced data fetch time from 11.4s to 2.1s for 100K+ nodes  
