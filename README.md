@@ -16,14 +16,14 @@
 
 ### 💫 About Me
 
-I'm **Aayush Jadhav**, a full-stack software engineer, AI enthusiast, and quantum ML explorer.  
-From building scalable chat systems and vector databases to running ViT-based Alzheimer’s research and deploying hybrid quantum-classical models—if it’s cutting-edge, I’m building it.
+I'm **Aayush Jadhav**, a full-stack engineer, AI researcher, and quantum ML enthusiast.  
+From vector databases and benchmarking dashboards to Alzheimer’s research and hybrid quantum neural nets, I love building intelligent systems that scale, learn, and sometimes... hallucinate less.
 
-- 🔭 Ex–Senior Software Engineer @ **E42.ai**  
-- 📚 MSCS @ **Stevens Institute of Technology**  
-- 🧠 Published Researcher @ **IJDSAA**  
-- ⚛️ Working with PennyLane + Cirq on quantum ML pipelines  
-- 🚀 Building end-to-end systems with impact
+- 🔭 Former Sr. Software Engineer @ **E42.ai**  
+- 🎓 MSCS @ **Stevens Institute of Technology**  
+- 🧠 ViT-based research on Alzheimer’s, published in IJDSAA  
+- ⚛️ Quantum ML engineer working with PennyLane + Cirq  
+- 🧰 Building tools that empower AI + dev teams
 
 ---
 
@@ -45,16 +45,46 @@ From building scalable chat systems and vector databases to running ViT-based Al
 
 ---
 
+## 🧩 Project Highlights
 <details>
-  <summary>🧪 Quantum ML Projects (click to reveal)</summary>
+  <summary>🧪 Quantum Machine Learning</summary>
   <br>
+  - MERA-based feature extractor using PennyLane  
+  - Hybrid QML pipelines trained via qml.qnn.TorchLayer  
+  - Patch & fractal preprocessing pipelines for QCNN  
+  - Sobel, entropy maps, PCA/HOG + 16–32 qubit encoding  
+</details>
 
-  - Built a full MERA quantum-classical hybrid model with PennyLane & PyTorch  
-  - Implemented QCNNs for image classification using Cirq  
-  - Created fractal + patch-based quantum encoding pipelines  
-  - Integrated entropy map features for better quantum descriptors  
-  - Benchmarking models on classical vs hybrid-QML performance
+<details>
+  <summary>🧠 Vision Transformer for Alzheimer’s Detection</summary>
+  <br>
+  - Published research at IJDSAA  
+  - Achieved 97.34% on Kaggle & 81.25% on OASIS-3  
+  - Reduced clinical diagnostic time by 30%  
+</details>
 
+<details>
+  <summary>🛠️ Vector Database with PostgreSQL + DRF</summary>
+  <br>
+  - Designed a graph-style database with recursive querying  
+  - Reduced data fetch time from 11.4s to 2.1s for 100K+ nodes  
+  - Inspired by Facebook’s Entity Framework, now in production at E42.ai  
+</details>
+
+<details>
+  <summary>⚡ Full-Stack Benchmarking Dashboard</summary>
+  <br>
+  - Built with React + Django  
+  - Tracks, logs, and compares AI model performance  
+  - Used daily by the internal GenAI team  
+</details>
+
+<details>
+  <summary>🎯 Demographic Prediction for Ad Targeting</summary>
+  <br>
+  - Predicted user age/gender from mobile activity  
+  - Flask + ML backend with Dockerized deployment on AWS  
+  - Reached 96.4% prediction accuracy  
 </details>
 
 ---
