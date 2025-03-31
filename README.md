@@ -2,14 +2,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Engineer%20🚀;AI%2FML%20Researcher%20🧠;Cloud%20Native%20Builder%20☁️;Quantum%20Machine%20Learning%20Tinkerer%20⚛️;RAG%20Nerd%20and%20ViT%20Fanboy%20🤖&center=true&width=500&height=30">
 </p>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ4MjhyeTdjbmhyejRsMXYyN3RyaWdlaDY2MXBocTBkNGNucXgwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="380" height="420" alt="anime hacker coding gif"/>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ARJ2211&style=flat-square&color=blue" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/ARJ2211?label=Follow&style=social" />
+</p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ4MjhyeTdjbmhyejRsMXYyN3RyaWdlaDY2MXBocTBkNGNucXgwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="380" height="420" alt="anime hacker coding gif"/>
 </p>
 
 ---
