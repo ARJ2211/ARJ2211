@@ -49,42 +49,42 @@ From vector databases and benchmarking dashboards to Alzheimer’s research and 
 <details>
   <summary>🧪 Quantum Machine Learning</summary>
   <br>
-  - MERA-based feature extractor using PennyLane  
-  - Hybrid QML pipelines trained via qml.qnn.TorchLayer  
-  - Patch & fractal preprocessing pipelines for QCNN  
-  - Sobel, entropy maps, PCA/HOG + 16–32 qubit encoding  
+  - MERA-based feature extractor using PennyLane <br />
+  - Hybrid QML pipelines trained via qml.qnn.TorchLayer  <br />
+  - Patch & fractal preprocessing pipelines for QCNN  <br />
+  - Sobel, entropy maps, PCA/HOG + 16–32 qubit encoding  <br />
 </details>
 
 <details>
   <summary>🧠 Vision Transformer for Alzheimer’s Detection</summary>
   <br>
-  - Published research at IJDSAA  
-  - Achieved 97.34% on Kaggle & 81.25% on OASIS-3  
-  - Reduced clinical diagnostic time by 30%  
+  - Published research at IJDSAA  <br />
+  - Achieved 97.34% on Kaggle & 81.25% on OASIS-3  <br />
+  - Reduced clinical diagnostic time by 30%  <br />
 </details>
 
 <details>
   <summary>🛠️ Graph Database with PostgreSQL + DRF</summary>
   <br>
-  - Designed a graph-style database with recursive querying  
-  - Reduced data fetch time from 11.4s to 2.1s for 100K+ nodes  
-  - Inspired by Facebook’s Entity Framework, now in production at E42.ai  
+  - Designed a graph-style database with recursive querying  <br />
+  - Reduced data fetch time from 11.4s to 2.1s for 100K+ nodes  <br />
+  - Inspired by Facebook’s Entity Framework, now in production at E42.ai  <br />
 </details>
 
 <details>
   <summary>⚡ Full-Stack Benchmarking Dashboard</summary>
   <br>
-  - Built with React + Django  
-  - Tracks, logs, and compares AI model performance  
-  - Used daily by the internal GenAI team  
+  - Built with React + Django  <br />
+  - Tracks, logs, and compares AI model performance  <br />
+  - Used daily by the internal GenAI team  <br />
 </details>
 
 <details>
   <summary>🎯 Demographic Prediction for Ad Targeting</summary>
   <br>
-  - Predicted user age/gender from mobile activity  
-  - Flask + ML backend with Dockerized deployment on AWS  
-  - Reached 96.4% prediction accuracy  
+  - Predicted user age/gender from mobile activity  <br />
+  - Flask + ML backend with Dockerized deployment on AWS  <br />
+  - Reached 96.4% prediction accuracy  <br />
 </details>
 
 ---
