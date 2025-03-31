@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="480" alt="anime hacker coding gif"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ4MjhyeTdjbmhyejRsMXYyN3RyaWdlaDY2MXBocTBkNGNucXgwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="380" height="420" alt="anime hacker coding gif"/>
 </p>
 
 <p align="center">
