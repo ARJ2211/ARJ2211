@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Aayush 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Engineer%20🚀;AI%2FML%20Researcher%20🧠;Cloud%20Native%20Builder%20☁️;Quantum%20Machine%20Learning%20Tinkerer%20⚛️;RAG%20Nerd%20and%20ViT%20Fanboy%20🤖&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Engineer%20🚀;AI%2FML%20Researcher%20🧠;Cloud%20Native%20Builder%20☁️;Quantum%20Machine%20Learning%20⚛️;RAG%20and%20ViT%20🤖&center=true&width=500&height=30">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ARJ2211&style=flat-square&color=blue" alt="Profile views"/>
