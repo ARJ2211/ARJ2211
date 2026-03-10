@@ -83,8 +83,6 @@ From vector databases and benchmarking dashboards to Alzheimer’s research and 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARJ2211&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ARJ2211&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARJ2211&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
