@@ -12,7 +12,7 @@ I like building things that sit at the intersection of software engineering and 
 
 **[BlinkDB](https://github.com/ARJ2211/BlinkDB)**: Versioned in-memory key-value store with TTL, compare-and-swap, tombstones, and time-travel queries. HTTP API with snapshot semantics and lazy expiry GC.
 
-**[Quantum CNN](https://github.com/ARJ2211/QCNN)**: Hybrid MERA-based quantum-classical neural network for multiclass image classification on 16–32 qubits using PennyLane and TensorFlow Quantum.
+**[Quantum CNN](https://github.com/ARJ2211/Quantum-CNN)**: Hybrid MERA-based quantum-classical neural network for multiclass image classification on 16–32 qubits using PennyLane and TensorFlow Quantum.
 
 </td>
 <td valign="top" width="40%">
