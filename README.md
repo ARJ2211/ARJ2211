@@ -1,6 +1,3 @@
-``` bash
-Read(about)Me.md
-```
 <table>
 <tr>
 <td valign="top" width="60%">
