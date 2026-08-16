@@ -2,7 +2,7 @@
 <tr>
 <td valign="top" width="60%">
 
-Full-stack engineer and ML researcher. Currently finishing up my MSCS at Stevens Institute of Technology, previously a Sr. Software Engineer at E42.ai.
+Full-stack engineer and ML researcher. Completed my MSCS at Stevens Institute of Technology, previously a Sr. Software Engineer at E42.ai.
 
 I like building things that sit at the intersection of software engineering and AI vector databases, benchmarking tools, RAG pipelines, and the occasional quantum ML experiment with PennyLane.
 
